@@ -1,0 +1,13 @@
+/* styles.css */
+
+div { 
+	color: white;
+	background-color: red;
+	font-family: "Verdana", sans-serif;
+	font-size: 52px;
+	font-weight: bold; 
+	text-align: center;	
+	margin-right: 5px;
+	margin-left: 5px;
+ }
+
