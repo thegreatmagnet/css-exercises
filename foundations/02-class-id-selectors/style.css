@@ -1,0 +1,27 @@
+/* style.css */
+
+.test-class {
+	color: black;
+	background: salmon;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+
+
+.test-class#large {
+	font-size: 48px;
+}
+
+#id1 {
+	color: blue;
+	font-size: 64;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#id2 {
+	color: black;
+	background: lime;
+	font-weight: bold;
+	font-size: 72;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
